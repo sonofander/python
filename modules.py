@@ -1,12 +1,6 @@
-import math
+# sometimes there are functions you use more than once
+# no re write is necessary
+# include module in files where you call those functions
 
-4**4
-pow(4,4)
-abs(-18)
-
-#imported the module
-math.floor(18.7)
-math.sqrt(64)
-
-cam = math.sqrt
-cam(81)
+def fish();
+print('I am a tuna fish')
